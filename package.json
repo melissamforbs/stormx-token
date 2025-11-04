@@ -29,7 +29,7 @@
     "@openzeppelin/gsn-helpers": "0.2.4",
     "@openzeppelin/gsn-provider": "0.1.11",
     "coveralls": "3.1.1",
-    "eslint": "9.33.0",
+    "eslint": "9.39.1",
     "ganache-cli": "6.12.2",
     "solidity-bytes-utils": "0.8.4",
     "solidity-coverage": "0.8.16",
