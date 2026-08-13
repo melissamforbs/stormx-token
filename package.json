@@ -32,13 +32,13 @@
     "eslint": "10.0.2",
     "ganache-cli": "6.12.2",
     "solidity-bytes-utils": "0.8.4",
-    "solidity-coverage": "0.8.16",
+    "solidity-coverage": "0.8.17",
     "truffle-hdwallet-provider": "1.0.17",
     "truffle": "5.11.5",
     "web3": "4.16.0",
     "web3-utils": "4.3.3"
   },
   "devDependencies": {
-    "solhint": "6.0.2"
+    "solhint": "6.0.3"
   }
 }
